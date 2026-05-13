@@ -4,11 +4,11 @@ Esta carpeta recoge la documentacion del uso y apoyo de TrazaOS, esta pensada pa
 
 TrazaOS se organiza en guias separadas porque cada perfil necesita una informacion o formación distinta:
 
-- [Manual del administrador](manual-administrador.md): configuracion de empresa, flota, conductores, inventario e histórico.
-- [Manual de operaciones](manual-operaciones.md): flujo diario de pedidos, rutas, mapa y optimización.
-- [Manual del conductor](manual-conductor.md): uso móvil de la ruta, navegación, foto, firma y sincronización.
-- [Documentacion tecnica resumida](documentacion-tecnica.md): arquitectura, seguridad, IA, Big Data y decisiones tecnicas.
-- [Anexos](anexos/README.md): evidencias visuales y tecnicas.
+- [Manual del administrador](docs/manual-administrador.md): configuracion de empresa, flota, conductores, inventario e histórico.
+- [Manual de operaciones](docs/manual-operaciones.md): flujo diario de pedidos, rutas, mapa y optimización.
+- [Manual del conductor](docs/manual-conductor.md): uso móvil de la ruta, navegación, foto, firma y sincronización.
+- [Documentacion tecnica resumida](docs/documentacion-tecnica.md): arquitectura, seguridad, IA, Big Data y decisiones tecnicas.
+- [Anexos](docs/anexos/README.md): evidencias visuales y tecnicas.
 
 ## Perfiles Cubiertos
 
